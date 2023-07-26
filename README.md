@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Rivist. Not the real one but a fan.
-- I am a student of NEU of China.
+- 👋 Hi, I’m @Rivist. 
 
 
 
